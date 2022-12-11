@@ -1,0 +1,13 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.corpoapp{
+    width: 350px;
+    height: 650px;
+    margin: auto;
+    background-color: black;
+    border-radius: 5PX;
+    
+}
